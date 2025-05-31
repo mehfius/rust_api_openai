@@ -1,0 +1,10 @@
+/target/
+!/target/
+/target/*
+!/target/release/
+/target/release/*
+!/target/release/rust_api_openai
+*.lock
+/models/
+.env
+.docker-compose.yml
